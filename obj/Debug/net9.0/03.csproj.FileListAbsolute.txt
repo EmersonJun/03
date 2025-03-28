@@ -12,3 +12,4 @@ C:\Users\eminh\OneDrive\Documentos\vscode\C#\EmersonJunior.positivo28\03\obj\Deb
 C:\Users\eminh\OneDrive\Documentos\vscode\C#\EmersonJunior.positivo28\03\obj\Debug\net9.0\03.pdb
 C:\Users\eminh\OneDrive\Documentos\vscode\C#\EmersonJunior.positivo28\03\obj\Debug\net9.0\03.genruntimeconfig.cache
 C:\Users\eminh\OneDrive\Documentos\vscode\C#\EmersonJunior.positivo28\03\obj\Debug\net9.0\ref\03.dll
+C:\Users\eminh\OneDrive\Documentos\vscode\C#\EmersonJunior.positivo28\03\obj\Debug\net9.0\03.sourcelink.json
