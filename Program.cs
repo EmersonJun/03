@@ -4,9 +4,9 @@ using System;
 class program{
     static void Main(){
         Console.Write("White your name: ");
-        String nome = Console.ReadLine();
+        // String nome = Console.ReadLine();
 
-        Console.WriteLine($"hello, {nome}! wellcome to c#");
+        // Console.WriteLine($"hello, {nome}! wellcome to c#");
 
         // int number = 10;
         // int number_2 = 5;
@@ -18,14 +18,16 @@ class program{
         // } else {
         //     Console.WriteLine("you are dumb");
         // }
-        
+        int number1, number2, number3, number4;
         Console.WriteLine("insira o numero 1: ");
-        int number1 = Convert.ToInt32(Console.ReadLine());
+        number1 = Convert.ToInt32(Console.ReadLine());
         Console.WriteLine("insira o numero 2: ");
-        int number2 = Convert.ToInt32(Console.ReadLine());
+        number2 = Convert.ToInt32(Console.ReadLine());
         Console.WriteLine("insira o numero 3: ");
-        int number3 = Convert.ToInt32(Console.ReadLine());
-        int answer = number1 + number2 + number3;
+        number3 = Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine("insira o numero 4: ");
+        number4 = Convert.ToInt32(Console.ReadLine());
+        int answer = number1 + number2 + number3 + number4;
         Console.WriteLine("resultado da soma: "+answer);
     }
 }
